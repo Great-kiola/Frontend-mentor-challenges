@@ -11,7 +11,38 @@ body{
     line-height: 1.5;
     min-height: 100vh;
     background-color: var(--Yellow);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
+
+
+.container{
+    background-color: var(--Black);
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.card{
+    background-color: var(--White);
+    border-radius: 20px;
+    padding: 20px;
+    width: 400px;
+    border: 3px solid var(--Black);
+    margin: -10px 10px 10px -10px;
+}
+
+.textSection .highlight{
+    background-color: var(--Yellow);
+    font-size: 1rem;
+    font-weight: 800;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+
 
 .attribution {
     font-size: 11px;
