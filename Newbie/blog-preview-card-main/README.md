@@ -20,7 +20,7 @@ Your users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/Great-kiola/Frontend-mentor-challenges/tree/main/Newbie/blog-preview-card-main/blog-preview-card-main)
-- Live Site URL: [Live site URL](https://great-kiola.github.io/Crowdfunding-page-fem)
+- Live Site URL: [Live site URL](https://frontend-mentor-challenges-weld.vercel.app/)
 
 ## Author
 
